@@ -23,7 +23,7 @@ Welcome to the frontend of Husool! This React-based interface allows users to ef
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-org/husool-ui.git
+git clone [https://github.com/your-org/husool-ui.git](https://github.com/falconinformatics/husool-ui.git)
 cd husool-ui/frontend
 
 # Install dependencies
